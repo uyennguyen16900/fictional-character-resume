@@ -1,17 +1,24 @@
-body {
-  background-color: lightblue;
-}
-
 .container {
-  width: 320px;
-  padding: 10px;
-  border: solid navy;
-  margin: 20px;
+  text-align: center;
 }
 
 h1 {
-  width: 320px;
-  padding: 10px;
-  border: double navy;
-  margin: 20px;
+  background-color: #bfedf5;
+}
+
+h2 {
+  color: #249ded;
+  margin: 5px;
+}
+
+#email {
+  color: blue;
+}
+
+hr {
+  border-top: 2px solid #c8cecf;
+}
+
+p {
+  margin: 6px;
 }
